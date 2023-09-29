@@ -8,7 +8,7 @@ require github.com/pquerna/otp v1.4.0
 
 require (
 	fyne.io/fyne/v2 v2.3.0
-	gvisor.dev/gvisor v0.0.0-20220901235040-6ca97ef2ce1c
+	gvisor.dev/gvisor v0.0.0-20230404014940-87523d4f2f99
 	tailscale.com v1.34.2
 )
 
@@ -41,10 +41,10 @@ require (
 	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/image v0.0.0-20220601225756-64ec528b34cd // indirect
 	golang.org/x/mobile v0.0.0-20211207041440-4e6c2922fdee // indirect
-	golang.org/x/net v0.1.0 // indirect
-	golang.org/x/sys v0.3.1-0.20221220025402-2204b6615fb8 // indirect
-	golang.org/x/text v0.4.0 // indirect
-	golang.org/x/time v0.0.0-20211116232009-f0f3c7e86c11 // indirect
+	golang.org/x/net v0.5.0 // indirect
+	golang.org/x/sys v0.4.0 // indirect
+	golang.org/x/text v0.6.0 // indirect
+	golang.org/x/time v0.0.0-20220210224613-90d013bbcef8 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	honnef.co/go/js/dom v0.0.0-20210725211120-f030747120f2 // indirect
 )
